@@ -1,0 +1,11 @@
+StudyHours,Attendance,Result
+High,High,Pass
+Low,Low,Fail
+High,Low,Pass
+Low,High,Fail
+Medium,High,Pass
+Medium,Low,Fail
+High,Medium,Pass
+Low,Medium,Fail
+Medium,Medium,Pass
+High,High,Pass
